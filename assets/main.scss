@@ -41,7 +41,7 @@ ul.icons a {
   padding: 0;
   font-size: 1em;
   margin-bottom:20px;
-  text-align: center;
+  text-align: right;
 }
 
 .header-right p {
@@ -64,6 +64,10 @@ ul.icons a {
 
   .header-left {
     margin-top: 0px;
+  }
+
+  .icons {
+    text-align: center;
   }
 }
 
